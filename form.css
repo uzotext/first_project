@@ -1,0 +1,13 @@
+form {
+    display: grid;
+    background-color: lemonchiffon;
+    width: 50%;
+    margin: 10px 25px;
+    padding: 7px 15px;
+
+}
+
+form span {
+    width: 50%;
+    margin: 10px 0px;
+}
